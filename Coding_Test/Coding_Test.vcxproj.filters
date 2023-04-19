@@ -15,64 +15,155 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test22.c">
+    <ClCompile Include="c_test14.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test23.c">
+    <ClCompile Include="c_test13.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test24.c">
+    <ClCompile Include="c_test12.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test25.c">
+    <ClCompile Include="c_test11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test26.c">
+    <ClCompile Include="c_test10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test27.c">
+    <ClCompile Include="c_test9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test28.c">
+    <ClCompile Include="c_test8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test29.c">
+    <ClCompile Include="c_test7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test30.c">
+    <ClCompile Include="c_test6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test32.c">
+    <ClCompile Include="c_test5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test33.c">
+    <ClCompile Include="c_test4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test34.c">
+    <ClCompile Include="c_test3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test35.c">
+    <ClCompile Include="c_test2-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test36.c">
+    <ClCompile Include="c_test2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test37.c">
+    <ClCompile Include="c_test21.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test38.c">
+    <ClCompile Include="c_test20.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test39.c">
+    <ClCompile Include="c_test19.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test40.c">
+    <ClCompile Include="c_test18.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="test31.c">
+    <ClCompile Include="c_test17.c">
       <Filter>소스 파일</Filter>
-    </None>
+    </ClCompile>
+    <ClCompile Include="c_test15.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test39.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test38.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test37.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test36.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test35.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test34.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test33.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test32.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test31.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test30.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test29.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test28.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test27.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test26.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test25.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test24.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test23.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test22.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test43.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test42.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test41.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test40.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test44.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test45.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test46.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test47.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test48.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test49.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test50.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
