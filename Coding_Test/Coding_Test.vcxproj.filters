@@ -165,5 +165,14 @@
     <ClCompile Include="c_test50.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="c_test51.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test52.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_test53.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
